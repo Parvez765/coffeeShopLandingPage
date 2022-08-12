@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.background{
+    background-color: #f0efef;;
+}
+
+.items{
+    list-style: none;
+}
+.icon{
+    margin-right: 15px;
+}
+
+.heading{
+    margin-top: 100px;
+}
+
+.image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.footer-background{
+    background-color: #fae9e1;;
+}
+
+.feedback{
+    margin-top: 100px;
+}
